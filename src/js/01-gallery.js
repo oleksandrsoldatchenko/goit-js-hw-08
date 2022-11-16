@@ -18,7 +18,6 @@ function createGalleryContainerItems(item) {
                     class="gallery__image"
                     src="${preview}"
                     alt="${description}"
-                    loading="lazy"
                 />
             </a>
         </ul>`;
